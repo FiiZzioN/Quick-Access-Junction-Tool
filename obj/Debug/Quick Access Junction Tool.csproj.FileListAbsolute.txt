@@ -1,0 +1,6 @@
+e:\my documents\visual studio 2015\Projects\Quick Access Junction Tool\Quick Access Junction Tool\bin\Debug\Quick Access Junction Tool.exe.config
+e:\my documents\visual studio 2015\Projects\Quick Access Junction Tool\Quick Access Junction Tool\bin\Debug\Quick Access Junction Tool.exe
+e:\my documents\visual studio 2015\Projects\Quick Access Junction Tool\Quick Access Junction Tool\bin\Debug\Quick Access Junction Tool.pdb
+e:\my documents\visual studio 2015\Projects\Quick Access Junction Tool\Quick Access Junction Tool\obj\Debug\Quick Access Junction Tool.csprojResolveAssemblyReference.cache
+e:\my documents\visual studio 2015\Projects\Quick Access Junction Tool\Quick Access Junction Tool\obj\Debug\Quick Access Junction Tool.exe
+e:\my documents\visual studio 2015\Projects\Quick Access Junction Tool\Quick Access Junction Tool\obj\Debug\Quick Access Junction Tool.pdb
